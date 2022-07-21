@@ -1,0 +1,17 @@
+.btn {
+    background-color: white;
+    padding: 9px 13px;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 6px;
+    width: 85px;
+    height: 15px;
+}
+
+.btn:hover {
+    filter: contrast(75%);
+}
+
+.btn i {
+    padding-right: 8px;
+}
